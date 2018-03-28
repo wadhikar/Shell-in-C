@@ -1,3 +1,11 @@
-# Shell-in-C
+# Shell in C
 
-Created a shell that could recognize and parse user input into program names and arguments to execution. Able to concatenate commands via piping.
+Created a shell that recognizes and parses user input into program names and arguments to execution. Able to concatenate commands via piping.
+
+### Running
+
+Run the following to start the program:
+
+```
+make
+```
